@@ -1,0 +1,104 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: #FAFAFA;
+  text-align: center;
+  margin: 0;
+}
+
+.first-tx{
+  font-family: 'Roboto', sans-serif;
+  font-weight:300;
+  color: #8D8C8F;
+  margin: 50px auto 0 auto;
+  font-size: 37.5px;
+}
+
+.second-tx{
+  color: #434656;
+  font-weight: 600;
+  margin: 0 auto;
+  font-size: 33.44px;
+  padding-top: 10px;
+}
+
+.third-tx{
+  width: 40%;
+  color: #D2D2D5;
+  margin: 30px auto;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.content h2{
+  text-align: left;
+  color: #606064;
+  padding-left: 30px;
+}
+
+.content h3{
+  font-size: 15px;
+  text-align: left;
+  width: 85%;
+  color: #D2D2D5;
+  padding-left: 30px;
+}
+
+.content img{
+  padding-top: 30px;
+  padding-left: 250px;
+}
+
+.content{
+  position: relative;
+}
+
+.horizontal{
+  text-align: center;
+  width: 350px;
+  display: inline-block;
+  margin-bottom: 70px;
+}
+
+.team-builder{
+  box-shadow: 0 0 20px #E1E8F0;
+  margin-top: 50px;
+  width: 350px;
+  height: 250px;
+  border-top-style: solid;
+  border-top-color: #A83E40;
+  display: inline-block;
+}
+
+.calculator{
+  box-shadow: 0 0 20px #E1E8F0;
+  width: 350px;
+  height: 250px;
+  border-top-style: solid;
+  border-top-color: #5B9CD4;
+  float: right;
+  display: inline-block;
+  margin-right: 150px;
+  margin-top: 200px;
+}
+
+.karma{
+  box-shadow: 0 0 20px #E1E8F0;
+  margin: 0 auto;
+  width: 350px;
+  height: 250px;
+  border-top-style: solid;
+  border-top-color: #EBAA45;
+  margin-top: 50px;
+  display: inline-block;
+}
+.supervisor{
+  box-shadow: 0 0 20px #E1E8F0;
+  width: 350px;
+  height: 250px;
+  border-top-style: solid;
+  border-top-color: #5EC8C9;
+  display: inline-block;
+  float: left;
+  margin-left: 150px;
+  margin-top: 200px;
+}
